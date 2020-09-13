@@ -1,5 +1,7 @@
 # Interaction Design COM525
 
+![Interaction Design](repo_assets/pexels-bongkarn-thanyakij-3804052.jpg)
+
 ### Why is this unit important?
 Interaction Design (IxD) is a discipline related to User Centred Design (UCD), Human-Computer Interaction (HCI) and User Experience (UX), it plays an important role when designing digital products and services. Interaction Design is focused on creating engaging accessible interfaces which will allow a user to interact seamlessly through a digital system in an empathetic way, to access information, products and services.
 
