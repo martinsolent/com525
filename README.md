@@ -43,3 +43,14 @@ If you do not pass the portfolio, you will have to resubmit your work after impr
 4.	Confidently communicate and justify ideas to team members and clients with reference to relevant concepts, design principles and current standards.
 5.	Reflect constructively to feedback, personal objectives and accept responsibility for outcomes.
 6.	Create usable and accessible digital products that solve real-world problems to current industry standards
+
+| **Summative assessment details** |
+| ---- |
+|AE1	Weighting:	100%      |
+| Assessment type:	Portfolio     |
+| Aggregation:	N/A     |
+| Length/duration:	Five components & 3000 words     | 
+| Online submission:	Yes     |  
+| Grade marking:	Yes     |  
+| Anonymous marking:	No |    
+
