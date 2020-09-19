@@ -10,18 +10,20 @@
 | Module Leader: | Martin Reid |
 | Level: | 5 |
 | Assessment Title: | UI Interaction Components|
-| Assessment Number: | AE1  |
+| Assessment Number: | AE1 **REFER** |
 | Assessment Type: | Portfolio |
 | Restrictions on Time/Word Count: | 3000 |
  Consequence of not meeting time/word count limit: | Assignments should be presented appropriately in line with the restrictions stated above; ; if an assignment exceeds the time/word count this will be taken in account in the marks given using the assessment criteria shown |
 | Individual/Group: | Individual |
 | Assessment Weighting: | 100% |
 | Issue Date: | Week commencing 5th October 2020 |
-| Hand In Date: | **Friday 21st January 2021 4pm** |
+| Hand In Date: | **Week starting 28/6/2021 TBC** |
 | Planned Feedback Date: | Within 4 weeks |
 | Mode of Submission: | Digital Submission: **Online** |
 | Number of copies to be submitted: | One |
 | Anonymous Marking   | This assessment will be exempt from anonymous marking as it falls within an exempt category under the University's Anonymous Marking Policy. |
+
+If you have been referred due to submitting, but failing this assessment, you will need to revisit and update your work, using tutor feedback given to you as a guide to improvement (this is posted on the SOL page for this module). If you did not submit, you will need to now complete this assignment. If you have any questions about this Referral brief please contact Martin Reid -  martin.reid@solent.ac.uk
 
 ### Assessment Task
 
